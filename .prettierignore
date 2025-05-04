@@ -1,0 +1,7 @@
+build
+coverage
+node_modules
+main.scss
+eslint.config.mjs
+README.md
+webpack.config.js
